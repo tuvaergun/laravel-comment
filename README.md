@@ -1,7 +1,5 @@
 # Laravel Commentable
-
-[![Downloads](https://poser.pugx.org/tuvaergun/laravel-comment/downloads.svg)](https://packagist.org/packages/tuvaergun/laravel-comment)
-
+ 
 Allows for threaded comments to be added to multiple and different models within your app for Laravel 5.
 
  
@@ -13,7 +11,7 @@ This package use Nested Sets pattern with [Baum](https://github.com/etrepat/baum
 Edit your project's composer.json file to require `tuvaergun/laravel-comment`.
 ````
 "require": {
-  "tuvaergun/laravel-comment": "~1.0"
+  "tuvaergun/laravel-comment": "dev"
 }
 ````
 
